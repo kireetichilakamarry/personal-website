@@ -24,7 +24,7 @@ export const personalProjects = [
         projectName: "CHAI",
         description: 
             <div>
-                <p>MMS Project </p>
+                <p> There isn't a single standardized and validated scoring system specifically for Social Media content, but several established frameworks are commonly adapted to assess the quality and transparency of social media health content. The goal of this project was to develop an online scoring tool to assess the quality and accuracy of public health related content on Instagram Reels utilizing a newly devised scoring system tailored towards evaluating modern social media content. This gave rise to the Content Health Accuracy Index (CHAI), and the repository below contains code for a CHAI score calculator.</p>
             </div>,
         publicRepo: true,
         githubLink: "https://github.com/kireetichilakamarry/chai_mms",
