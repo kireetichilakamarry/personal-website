@@ -17,6 +17,24 @@ export const courseWorkProjects = [
         publicRepo: true,
         githubLink: "https://github.com/kireetichilakamarry/eecs_106a_final_project",
     },
+    {
+        projectName: "RISC-V Neural Network",
+        description: 
+            <div>
+                <p> This was a project for CS 61C, Berkeley's computer architecture course. I coded a neural network in RISC-V with a single-activation layer that could classify handwritten digits in the MNIST dataset. Check out the spec for more details. </p>
+            </div>,
+        publicRepo: false,
+        specLink: "https://inst.eecs.berkeley.edu/~cs61c/sp24/projects/proj2/",
+    },
+    {
+        projectName: "Build Your Own World",
+        description: 
+            <div>
+                <p> This was a project for CS 61B, Berkeley's data structures and algorithms course. I created an engine in Java to randomly generate interactive Pac-Man-esque worlds. I also included save, load, and quit features alongside dynamically adjustable peripheral vision and collectible items. See the spec for more details. </p>
+            </div>,
+        publicRepo: false,
+        specLink: "https://sp23.datastructur.es/materials/proj/proj3/",
+    },
 ]
 
 export const personalProjects = [
