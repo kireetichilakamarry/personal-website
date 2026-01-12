@@ -8,7 +8,7 @@ import profilePic from '../assets/sausalito_pic.png'
 const Home = () => {
   return (
     <div className='min-h-screen flex flex-row py-[10%] px-[5%] items-center'>
-        {/* Image (for now, just use something random) */}
+        {/* Image (profile picture) */}
         <div className='w-1/3 h-1/3 py-40'>
             <img src={profilePic} alt="Profile Picture" />
         </div>
